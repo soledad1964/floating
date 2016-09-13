@@ -1,16 +1,14 @@
 /* Pon tu código css aqui */
 
 .contenedor {
-	          width: 800px;
-	          height: 400px;
 	          background: white;
 	          border: 1px solid black;
 }
 .cajita {
 
-	          width: 200px;
-	          height: 133px;  
-            float: right; 
+	          width: 25%;
+	          height: 100px;
+            float: right;   
   }
   .amarillo { 
   	background-color: yellow;
