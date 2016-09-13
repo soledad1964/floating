@@ -1,0 +1,24 @@
+/* Pon tu código css aqui */
+
+.contenedor {
+	          width: 800px;
+	          height: 400px;
+	          background: white;
+	          border: 1px solid black;
+}
+.cajita {
+
+	          width: 200px;
+	          height: 133px;   
+  }
+  .amarillo { 
+  	background-color: yellow;
+   }
+
+  .celeste {
+  	background-color: #1E90FF;
+  }
+
+  .rosa {
+  	background-color: #FF1493;
+  }
